@@ -1,0 +1,14 @@
+{
+  "name": "Adi WhatsApp Bot",
+  "description": "WhatsApp Bot running on Javascript",
+  "keywords": [
+    "whatsapp",
+    "manager",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/adisubagja/ImageToSticker-1",
+  "website": "",
+  "stack": "container"
+}
